@@ -1,9 +1,15 @@
-# React TypeScript Starter Pack
+# Todos-app
 
-To use this template click `Use this template`
+# [DEMO LINK]()
 
-### Available Scripts
-
-`Deploy` - available to deploy your application to gh-pages
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+# Technologies used
+- HTML
+- css
+- scss
+- bulma
+- classnames
+- java script
+- JSX
+- typescript
+- react
+- react-dom
