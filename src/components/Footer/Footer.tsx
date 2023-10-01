@@ -92,7 +92,7 @@ export const Footer: React.FC<Props> = ({
 
       {/* don't show this button if there are no completed todos */}
       <button
-        style={{ visibility: `${isCompletedTodo ? 'visible' : 'hidden'}` }}
+        style={isCompletedTodo ? { visibility: 'visible' } : { visibility: 'hidden' }}
         type="button"
         className="todoapp__clear-completed"
         onClick={handleClickDeleteCompletedTodos}

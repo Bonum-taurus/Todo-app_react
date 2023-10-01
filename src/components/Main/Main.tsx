@@ -96,7 +96,7 @@ export const Main: React.FC<Props> = ({
     title: string,
   ) => {
     if (event.key === 'Enter') {
-      const newTitle = event.target.value;
+      const newTitle = event.currentTarget.value;
 
       if (title === newTitle) {
         setTodoIdEdit(null);
