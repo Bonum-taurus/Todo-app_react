@@ -1,4 +1,4 @@
-# Todos-app
+# Application of tasks
 
 # [DEMO LINK](https://bonum-taurus.github.io/Todo-app_react/)
 
